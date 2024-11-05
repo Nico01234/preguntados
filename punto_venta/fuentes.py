@@ -1,0 +1,6 @@
+font_button = "InsomatteDemo, 15"
+font_inventario = "InsomateDemo, 15"
+font_venta = "InsomateDemo, 20"
+font_venta_total = "InsomateDemo 40 bold"
+font_ventana_pagar = "InsomateDemo 30 bold"
+font_productos = "InsomateDemo 20 bold"
