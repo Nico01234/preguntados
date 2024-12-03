@@ -1,0 +1,6 @@
+pregunta,opcion1,opcion2,opcion3,opcion4,respuesta_correcta,dificultad
+"¿Cuántos huesos tiene el cuerpo humano adulto?", 206, 200, 100, 222, 1, facil
+"¿Quién pintó el famoso cuadro 'La Noche Estrellada'?", "Monet", "Picasso", "Vincent van Gogh", "Leonardo da Vinci", 3, facil
+"¿Qué animal es capaz de cambiar de color para camuflarse?", "Cebra", "Camaleon", "Tigre", "Jirafa", 2, facil
+"¿Cuál es la ciudad más grande del mundo por población?", "Tokio", "Barcelona", "Buenos Aires", "México", 1, facil
+"¿Qué órgano tiene la capacidad de regenerarse?", "Corazón", "Higado", "Riñón", "Pulmón", 2, facil
